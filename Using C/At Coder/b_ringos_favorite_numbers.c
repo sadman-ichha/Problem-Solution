@@ -4,7 +4,7 @@ int main()
 {
     int D, N;
 
-    // Read inputs D and N
+    // Read inputs D and  N
     // scanf("%d %d", &D, &N);
 
     // long long result;
